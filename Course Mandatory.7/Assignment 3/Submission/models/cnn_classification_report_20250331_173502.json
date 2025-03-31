@@ -1,0 +1,69 @@
+{
+    "buoy": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 9.0
+    },
+    "cruise_ship": {
+        "precision": 0.10714285714285714,
+        "recall": 0.09090909090909091,
+        "f1-score": 0.09836065573770493,
+        "support": 33.0
+    },
+    "ferry_boat": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 14.0
+    },
+    "freight_boat": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 4.0
+    },
+    "gondola": {
+        "precision": 0.6111111111111112,
+        "recall": 0.3142857142857143,
+        "f1-score": 0.41509433962264153,
+        "support": 35.0
+    },
+    "inflatable_boat": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 3.0
+    },
+    "kayak": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 32.0
+    },
+    "paper_boat": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 3.0
+    },
+    "sailboat": {
+        "precision": 0.3153846153846154,
+        "recall": 0.7735849056603774,
+        "f1-score": 0.44808743169398907,
+        "support": 53.0
+    },
+    "accuracy": 0.2956989247311828,
+    "macro avg": {
+        "precision": 0.11484873151539816,
+        "recall": 0.13097552342835364,
+        "f1-score": 0.10683804745048173,
+        "support": 186.0
+    },
+    "weighted avg": {
+        "precision": 0.2238709020967085,
+        "recall": 0.2956989247311828,
+        "f1-score": 0.22324106132214053,
+        "support": 186.0
+    }
+}
