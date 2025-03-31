@@ -105,6 +105,15 @@ logs/
 
 # Google Drive
 .tmp.driveupload
+*.gdoc
+*.gsheet
+*.gslides
+*.gdraw
+*.gform
+*.gtable
+.driveignore
+desktop.ini
+.tmp.drivedownload*
 
 # Obsidian
 .obsidian/
