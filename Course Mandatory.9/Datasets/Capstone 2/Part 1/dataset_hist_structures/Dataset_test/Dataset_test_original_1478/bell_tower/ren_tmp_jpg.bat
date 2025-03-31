@@ -1,0 +1,1 @@
+ren *.tmp *.jpg

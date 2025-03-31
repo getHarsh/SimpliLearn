@@ -1,0 +1,101 @@
+id,store_id,name,kcal,cost
+1,4,Chocolate Cake,554,6.71
+2,4,Breaded Fish with Vegetables Meal,772,15.09
+3,1,Sweet Fruity Cake,931,29.22
+4,1,Amazing Steak Dinner with Rolls,763,26.42
+5,5,Milk Cake,583,6.07
+6,4,Fruity Frozen Cocktail,537,5.61
+7,4,Fruity Milky Cake,605,8.1
+8,6,Amazing Trout with Vegetables Dinner,258,24.98
+9,1,Orange Juice,135,3.91
+10,5,Mutton with Roles and Vegetables Plate,820,21.13
+11,4,Fantastic Sweet Fish Cake,787,19.48
+12,1,Fantastic Sweet Cola,478,4.87
+13,1,Sweet Frozen Soft Drink,490,4.18
+14,6,Amazing Cocktail,472,3.9
+15,5,Original Lamb with Vegetables Meal,380,18.78
+16,1,Frozen Milky Smoothy,284,3.21
+17,4,Awesome Vegetable with Bread Meal,581,6.21
+18,1,Mutton Lunch Plate,566,18.82
+19,1,Strawberry Smoothy,145,2.89
+20,5,Fruity Milky Soft Drink,645,7.95
+21,1,Amazing Fish with Vegetables Meal,269,23.23
+22,4,Lamb with Bread Dinner,557,19.05
+23,1,Awesome Sweet Lamb Cake,671,10.86
+24,1,Amazing Sweet Fruity Vegetable Cake,588,7.91
+25,1,Fantastic Frozen Milky Cake,587,6.23
+26,5,Blue Ribbon Lamb with Rolls Lunch,611,7.55
+27,6,Steak Meal,607,26.21
+28,4,Fish with Dread and Vegetables Dinner,534,15.23
+29,2,Original Crazy Cocktail,228,2.43
+30,3,Fantastic Cake,525,5.08
+31,1,Amazing Frozen Milky Cake,623,5.62
+32,3,Milky vegi Smoothy,150,3.86
+33,6,Original Breaded Pork with Vegetables Dinner,1023,20.8
+34,4,Sweet Savory Cake,721,27.47
+35,6,Blue Ribbon Cocktail,456,4.36
+36,5,Fantastic Fish with Vegetables Entree,232,21.14
+37,1,Awesome Milky Cake,636,7.36
+38,1,Mutton Dinner,542,10.8
+39,5,Awesome Fruity Lamb with Vegetables Dinner,361,19.03
+40,4,Fantastic Fruity Salmon with Bread meal,815,22.67
+41,4,Milky Cake,624,6.01
+42,2,Fantastic Milky Smoothy,318,2.91
+43,5,Anglefood Cake,550,7.13
+44,1,Milky Vegi Smoothy,374,5.5
+45,1,Awesome Fish with Vegetables Entree,227,23.43
+46,3,Blue Ribbon Milky Cake,612,6.89
+47,4,Amazing Vegetable and Bread Dinner,720,8.01
+48,4,Original Breaded Lamb Dinner,740,11.82
+49,3,Awesome Smoothy,78,1.39
+50,5,Pike Lunch,653,26.37
+51,4,Amazing Lamb Dinner,591,17.55
+52,3,Original Sweet Milky Soft Drink,535,5.68
+53,5,Amazing Sweet Breaded Carrot Cake,836,7.87
+54,5,Original Vegetable with Bread Meal,626,6.51
+55,5,Frozen Milky Cake,607,6.63
+56,1,Sea Bass with Vegetables Dinner,613,28.75
+57,4,Carrot Cake,510,3.93
+58,5,Lamb with Vegetables Meal,485,13.66
+59,1,Blue Ribbon Beef Entree,392,23.37
+60,5,Original Pork Meal,411,15.69
+61,6,Awesome Pork with Vegetables Lunch,848,18.53
+62,2,Sweet Vegi Soft Drink,538,5.7
+63,5,Frozen Chocolate Cake,519,3.74
+64,6,Roast Mutton Entree,293,16.09
+65,4,Lamb with Bread and Vegetables Meal,724,20.02
+66,4,Cherry Cake,586,6.31
+67,1,Sweet Lamb Cake,558,7
+68,1,Blue Ribbon Fruity Milky Cake,652,8.7
+69,5,Awesome Hamburger with Fries,673,26.04
+70,5,Pork with Bread Lunch,545,16.28
+71,5,Frozen Milky Smoothy,211,3.98
+72,4,Original Milky Cake,602,6.53
+73,1,Milky Cake,596,5.16
+74,4,Super Sweet Cocktail,619,4.11
+75,4,Blue Ribbon Milky Smoothy,459,5.6
+76,1,Amazing pork lunch,679,17.93
+77,3,Blue Ribbon Frozen Milky Cake,636,7.7
+78,2,Original Gin Cocktail,279,2.99
+79,4,Fruity Frozen Slushy,137,3.75
+80,4,Blue Ribbon Fruity Vegi Lunch,881,53.98
+81,3,Fantastic Milky Smoothy,383,5.11
+82,4,Martini,556,5.45
+83,5,Original Fruity Carrot Cake,600,8.55
+84,5,BBQ Pork Steak,855,19.77
+85,4,Vegetarian Plate with Bread entree,271,4.02
+86,3,Original Milky Cake,595,6.5
+87,5,Milky Cake,627,7.22
+88,6,Oysters Rockefeller,204,16.06
+89,6,Awesome Soft Drink,248,3.06
+90,1,Sweet Breaded Zucchini Cake,838,7.71
+91,5,Halibut with Bread Dinner,468,15.46
+92,4,Margarita,418,3.23
+93,5,Lamb with Bread Entree,585,12.44
+94,6,Fruity Milky Smoothy,331,5.71
+95,4,Blue Ribbon Pork Chop with Rolls Dinner,958,19.04
+96,5,Blue Ribbon Fish with Bread Lunch,708,21.93
+97,4,Original Fruity Cod with Bread and Vegetables Entree,744,28.65
+98,2,Original Sweet Milky Soft Drink,579,5
+99,4,Frozen Tomato Soft Drink,423,5.32
+100,2,Awesome Vodka Cocktail,223,2.48

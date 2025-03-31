@@ -1,0 +1,21 @@
+# Core data analysis libraries
+pandas>=1.3.0
+numpy>=1.21.0
+scipy>=1.7.0
+
+# Statistical analysis and hypothesis testing
+scikit-learn>=0.24.0
+statsmodels>=0.12.0
+
+# Visualization libraries
+matplotlib>=3.4.0
+seaborn>=0.11.0
+plotly>=5.1.0
+
+# Jupyter environment
+jupyter>=1.0.0
+notebook>=6.4.0
+
+# Data handling
+openpyxl>=3.0.0  # For Excel file support
+python-dateutil>=2.8.0

@@ -1,0 +1,8 @@
+Course[[:space:]]Mandatory.7/Datasets_October/House_Loan_Data_Analysis_dataset/loan_data.csv filter=lfs diff=lfs merge=lfs -text
+Course[[:space:]]Mandatory.5/Datasets/Lesson_08_Recommender_Systems/8.08_User_Based_Collaborative_Filtering/rating.csv filter=lfs diff=lfs merge=lfs -text
+Course[[:space:]]Mandatory.7/Datasets_October/Lesson_03_Artificial_Neural_Network/3.04_Perceptron_Based_Classification_Model/mnist_train.csv filter=lfs diff=lfs merge=lfs -text
+*.h5 filter=lfs diff=lfs merge=lfs -text
+*.hdf5 filter=lfs diff=lfs merge=lfs -text
+*.parquet filter=lfs diff=lfs merge=lfs -text
+*.pickle filter=lfs diff=lfs merge=lfs -text
+*.pkl filter=lfs diff=lfs merge=lfs -text

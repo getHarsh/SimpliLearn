@@ -1,0 +1,10 @@
+# Core dependencies
+typing>=3.7.4,<4.0.0    # Type hints
+uuid>=1.30,<2.0.0      # Session ID generation
+
+# Jupyter interface
+jupyter>=1.0.0        # Jupyter Notebook
+notebook>=6.4.0      # Jupyter Notebook server
+
+# Test dependencies
+argparse>=1.4.0        # Command-line argument parsing
