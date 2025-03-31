@@ -38,9 +38,22 @@ My assignment submissions typically include:
 
 ## Git LFS
 
-I've set up this repository with Git Large File Storage (LFS) to handle large files. The following file types are tracked with Git LFS:
+I've set up this repository with Git Large File Storage (LFS) to handle large files that exceed GitHub's 100MB file size limit.
 
-- Large dataset files (CSV)
+### Large Files Included
+
+I've specifically configured Git LFS to track these large CSV files that would otherwise exceed GitHub's limits:
+
+- `Course Mandatory.7/Datasets_October/House_Loan_Data_Analysis_dataset/loan_data.csv` (158MB)
+- `Course Mandatory.5/Datasets/Lesson_08_Recommender_Systems/8.08_User_Based_Collaborative_Filtering/rating.csv` (106MB)
+- `Course Mandatory.7/Datasets_October/Lesson_03_Artificial_Neural_Network/3.04_Perceptron_Based_Classification_Model/mnist_train.csv` (105MB)
+
+These files are commented in the `.gitignore` file for documentation purposes only but are fully included in the repository through Git LFS handling.
+
+### Other File Types Tracked with LFS
+
+I've also configured Git LFS to track these file types that might exceed GitHub's limits:
+
 - Model files (H5, HDF5)
 - Serialized objects (pickle, pkl)
 - Parquet files
