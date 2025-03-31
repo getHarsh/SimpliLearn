@@ -2,9 +2,15 @@
 
 ## Disclaimer and License
 
-I'm sharing this repository for **educational purposes only**. These materials were used to help a friend complete the SimpliLearn program assignments and are provided as-is under the MIT License.
+I'm sharing this repository for **educational purposes only**. These materials were used to help a friend complete the SimpliLearn program assignments.
 
-**Important**: All course content, problem statements, datasets, and instructional materials are the intellectual property of SimpliLearn. I do not claim ownership of these materials, and they are included here solely for educational reference.
+### Course Materials Disclaimer
+
+**Important**: All course content, problem statements, datasets, and instructional materials are the intellectual property of SimpliLearn. I do not claim ownership of these materials, and they are included here solely for educational reference. These course materials are provided "as-is" without any warranty or license from me.
+
+### Code Submissions License
+
+My code submissions and solutions within this repository are provided under the MIT License (see license section below).
 
 I assume no liability for any use of this code or materials. If you choose to use any part of this repository, you do so at your own risk and responsibility.
 
@@ -75,11 +81,13 @@ To clone this repository and work with the large files:
 2. Clone the repository: `git clone https://github.com/getHarsh/SimpliLearn.git`
 3. Pull LFS content: `git lfs pull`
 
-## MIT License
+## MIT License (Applies to My Code Only)
 
 Copyright (c) 2025 Harsh
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+This license applies **only** to my original code submissions and solutions in this repository, not to any SimpliLearn course materials, problem statements, datasets, or instructional content.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of my code submissions (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
