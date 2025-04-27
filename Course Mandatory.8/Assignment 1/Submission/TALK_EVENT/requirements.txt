@@ -1,0 +1,3 @@
+mcp[cli,validation]==1.6.0
+fastmcp>=0.8.4
+python-dotenv>=1.0.0
